@@ -1,9 +1,3 @@
-
-
-
-
-
-
 const inputs = document.querySelectorAll('input[name=pet]');
 
 for(let i = 0; i < inputs.length; i++) {
